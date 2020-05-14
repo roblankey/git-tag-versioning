@@ -19,3 +19,4 @@ This sample repository shows a very simple setup to automatically version using 
 1.1 - Woo hoo
 
 1.1.1 - Ipsum
+1.1.2 - Dolor
