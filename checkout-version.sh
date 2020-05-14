@@ -12,4 +12,4 @@ echo "MINOR = $MINOR"
 PATCH=${VERSION_ARRAY[2]}
 echo "PATCH = $PATCH"
 
-git checkout -b "v$MAJOR.$MINOR.$PATH" "$MAJOR.$MINOR~$PATCH" 
+git checkout -b "v$MAJOR.$MINOR.$PATCH" "$MAJOR.$MINOR~$PATCH" 
