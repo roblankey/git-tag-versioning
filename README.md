@@ -14,3 +14,5 @@ This sample repository shows a very simple setup to automatically version using 
 
 1.0.1 - Silly nothing face
 1.0.2 - A totally new face
+1.0.3 - Almost there
+1.0.4 - Super important fix
