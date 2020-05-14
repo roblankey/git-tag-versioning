@@ -21,5 +21,6 @@ This sample repository shows a very simple setup to automatically version using 
   
 1.1.1 - Ipsum  
 1.1.2 - Dolor  
-1.1.3 - Merge hotfix
+1.1.3 - Merge hotfix  
 1.1.4 - Fix line breaks  
+1.1.5 - That last one too..  
