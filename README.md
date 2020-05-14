@@ -3,3 +3,5 @@ This sample repository shows a very simple setup to automatically version using 
 
 # Version(s)
 0.0 - Initial release
+
+0.0.1  - Lorem
