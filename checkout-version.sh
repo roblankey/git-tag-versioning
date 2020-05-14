@@ -1,0 +1,15 @@
+#!/bin/bash
+
+VERSION="$1"
+IFS='.' read -ra VERSION_ARRAY <<< "$VERSION"
+
+MAJOR=${VERSION_ARRAY[0]}
+echo "MAJOR = $MAJOR"
+
+MINOR=${VERSION_ARRAY[1]}
+echo "MINOR = $MINOR"
+
+PATCH=${VERSION_ARRAY[2]}
+echo "PATCH = $PATCH"
+
+git checkout -b "v$MAJOR.$MINOR.$PATH" "$MAJOR.$MINOR~$PATCH" 
